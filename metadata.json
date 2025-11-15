@@ -1,0 +1,5 @@
+{
+  "name": "ART - Análise Preliminar da Tarefa",
+  "description": "A web application to create, manage, and export Preliminary Task Analysis (ART), checklists, and lockout matrices for maintenance activities, based on provided safety forms.",
+  "requestFramePermissions": []
+}
